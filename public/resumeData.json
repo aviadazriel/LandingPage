@@ -82,27 +82,39 @@
     "skills": [
       {
         "name": "Angular",
-        "level": "90%"
+        "level": "90%",
+        "className" :"fab fa-angular font-xlarge",
+        "color": "red"
       },
       {
         "name": "Python",
-        "level": "90%"
+        "level": "90%",
+        "className" :"fab fa-python font-xlarge",
+        "color": "#1229d2b8"
       },
       {
         "name": "SQL",
-        "level": "100%"
+        "level": "100%",
+        "className" :"fa fa-database font-xlarge",
+        "color": "#ff7600"
       },
       {
         "name": "C#",
-        "level": "75%"
+        "level": "75%",
+        "className" :"fab fa-cuttlefish font-xlarge",
+        "color": "#a900ffa1"
       },
       {
         "name": "Git",
-        "level": "90%"
+        "level": "90%",
+        "className" :"fab fa-git-alt font-xlarge",
+        "color": "red"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "React",
+        "level": "50%",
+        "className" :"fab fa-react font-xlarge",
+        "color": "#00a1ff"
       }  
     ]
   },

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class Resume extends Component {
+
   render() {
 
     if(this.props.data){
@@ -18,7 +19,7 @@ class Resume extends Component {
       })
       var skills = this.props.data.skills.map(function(skills){
         var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em><i className={skills.className} style={{color:skills.color}}></i> {skills.name}</em></li>
       })
     }
 
