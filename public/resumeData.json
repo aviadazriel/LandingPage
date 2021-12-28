@@ -109,10 +109,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Analyze the effects of Covid19 on Twitter and Finance in the USA",
+        "category": "Analyze",
+        "image": "trump_twits.png",
+        "url": "https://medium.com/@aviadazriel/analyze-the-effects-of-covid-19-on-twitter-and-finance-in-the-usa-part-1-2098836a9d7b"
       },
       {
         "title": "Fury Fighting Gear",
