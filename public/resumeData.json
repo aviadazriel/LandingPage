@@ -1,35 +1,28 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
+    "name": "Aviad Azriel",
+    "occupation": "Software Engineer",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image": "profilepic.jpg",
+    "image": "linkedin_profile.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "aviadazriel2@gmail.com",
+    "phone": "+972-522-257-282",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Ramat Gan",
+      "state": "Israel"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://192.168.1.18:3001 ",
+    "resumedownload": "http://192.168.1.18:3001",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "http://facebook.com/aviad.azriel",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/aviad-azriel-b87925142/",
         "className": "fa fa-linkedin"
       },
       {
@@ -39,8 +32,18 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/aviadazriel",
         "className": "fa fa-github"
+      }, 
+      {
+        "name": "medium",
+        "url": "https://medium.com/@aviadazriel",
+        "className": "fa fa-medium"
+      }, 
+      {
+        "name": "email",
+        "url": "mailto:aviadazriel2@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
@@ -48,61 +51,59 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Ben-Gurion University of the Negev",
+        "degree": "M.Sc. - Information Systems Engineering",
+        "graduated": "10/2020-present",
+        "description": "Major in Machine Learning and AI. High level Master Degree with hands on projects. Teisa about predict mortality in 5 years by Deep learning algorithem with ECG , CT and data relations. some courses: NLP, Deep Learning , Machine Learning ect."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Ariel University",
+        "degree": "B.Sc. - Industrial Engineering and information systems",
+        "graduated": "10/2015 - 06/2019",
+        "description": "Graduating with honors - 96 GPA. Awarded Rector's List achievements (four times). Final project - Development and implementation of BI system."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Mizrahi-Tefahot Bank",
+        "title": "Full Stack Developer",
+        "location": "Tel Aviv, Israel",
+        "years": "March 2018 - Present",
+        "description": "Website development, automated processes and timings.Working on multiple software projects simultaneously and participating in the whole software development process from design to implementation and delivery. etermining areas for improvements by periodically monitoring the current system to boost efficiency.\n Knowledge and experience in Python, SQL, C#, Angular, CSS, DataStage (ETL)."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Elta Ltd.",
+        "title": "Project Manager",
+        "location": "Ashdod, Israel",
+        "years": "March 2016 - February 2018",
+        "description": "Plans and audits projects. Interfaces with many company functionaries, manages staff. Optimizes manufacturing processes and improves deadline compliance."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Angular",
+        "level": "90%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "100%"
+      },
+      {
+        "name": "C#",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
       },
       {
         "name": "ReactJs",
         "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      }
+      }  
     ]
   },
   "portfolio": {
