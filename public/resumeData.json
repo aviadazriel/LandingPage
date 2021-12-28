@@ -2,7 +2,7 @@
   "main": {
     "name": "Aviad Azriel",
     "occupation": "Software Engineer",
-    "description": "I am an experienced full stack developer. Working with new systems that deal and receive conclusions from data this the future and is what I'm looking for. As a way of life, I believe in setting new goals and challenges and always a new challenge is received with a wide smile",
+    "description": "I'm an experienced full stack developer. Working with new systems that deal and receive conclusions from data this the future and is what I'm looking for. As a way of life, I believe in setting new goals and challenges and always a new challenge is received with a wide smile",
     "image": "linkedin_profile.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -13,7 +13,7 @@
       "state": "Israel"
     },
     "website": "http://192.168.1.18:3001 ",
-    "resumedownload": "http://192.168.1.18:3001",
+    "resumedownload": "/files/Resume.pdf",
     "social": [
       {
         "name": "facebook",
