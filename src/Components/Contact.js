@@ -80,7 +80,7 @@ class Contact extends Component {
 					   <p className="address">
 						   {name}<br />
 						   {city}, {state}<br />
-						   <span>{phone}</span>
+						   <a href={'tel:'+phone} style={{cursor:"pointer"}}>{phone}</a>
 					   </p>
 				   </div>
 
