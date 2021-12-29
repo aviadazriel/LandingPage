@@ -1,6 +1,17 @@
 import React, { Component } from 'react';
 
 class Contact extends Component {
+   state = {
+      contactName : "",
+      contactEmail : "",
+      contactSubject : "",
+      contactMessage : ""
+   }
+   handleChange(e){
+      // if (e.target.name == "contactName")
+      //    this.setState({contactName : e.target.value})
+   }
+ 
   render() {
 
     if(this.props.data){
@@ -34,7 +45,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -54,7 +65,7 @@ class Contact extends Component {
 
                   <div>
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage" onChange={this.handleChange}></textarea>
                   </div>
 
                   <div>
@@ -110,6 +121,7 @@ class Contact extends Component {
    </section>
     );
   }
+ 
 }
 
 export default Contact;
