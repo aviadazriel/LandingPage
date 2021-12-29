@@ -5,7 +5,7 @@
     "description": "I'm an experienced full stack developer. Working with new systems that deal and receive conclusions from data this the future and is what I'm looking for. As a way of life, I believe in setting new goals and challenges and always a new challenge is received with a wide smile",
     "image": "linkedin_profile.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "If you liked what you read and you thinking we can work together Im would happy to hear from you",
     "email": "aviadazriel2@gmail.com",
     "phone": "+972-522-257-282",
     "address": {
@@ -94,8 +94,8 @@
       },
       {
         "name": "SQL",
-        "level": "100%",
-        "className" :"fa fa-database font-xlarge",
+        "level": "85%",
+        "className" :"fas fa-database font-xlarge",
         "color": "#ff7600"
       },
       {
