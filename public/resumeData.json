@@ -18,27 +18,27 @@
       {
         "name": "facebook",
         "url": "http://facebook.com/aviad.azriel",
-        "className": "fa fa-facebook"
+        "className": "fab fa-facebook-f"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/aviad-azriel-b87925142/",
-        "className": "fa fa-linkedin"
+        "className": "fab fa-linkedin-in"
       },
       {
         "name": "instagram",
         "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
+        "className": "fab fa-instagram"
       },
       {
         "name": "github",
         "url": "http://github.com/aviadazriel",
-        "className": "fa fa-github"
+        "className": "fab fa-github"
       }, 
       {
         "name": "medium",
         "url": "https://medium.com/@aviadazriel",
-        "className": "fa fa-medium"
+        "className": "fab fa-medium-m"
       }, 
       {
         "name": "email",
