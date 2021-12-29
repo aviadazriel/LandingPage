@@ -12,7 +12,7 @@
       "city": "Ramat Gan",
       "state": "Israel"
     },
-    "website": "http://192.168.1.18:3001 ",
+    "website": "/",
     "resumedownload": "/files/Resume.pdf",
     "social": [
       {
@@ -48,7 +48,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I acquired most of my skills as a result of self-learning. The deep knowledge and the professional level thanks to my experience in recent years at work and my master's degree",
     "education": [
       {
         "school": "Ben-Gurion University of the Negev",
