@@ -88,7 +88,7 @@
       },
       {
         "name": "Python",
-        "level": "90%",
+        "level": "85%",
         "className" :"fab fa-python font-xlarge",
         "color": "#1229d2b8"
       },
@@ -106,7 +106,7 @@
       },
       {
         "name": "Git",
-        "level": "90%",
+        "level": "80%",
         "className" :"fab fa-git-alt font-xlarge",
         "color": "red"
       },
